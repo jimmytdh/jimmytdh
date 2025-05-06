@@ -1,18 +1,120 @@
-# 💫 About Me:
-I’m currently working on<br>A Dormitory Management System, a Bingo project for CSMC Employees, a Supply Management Information System, and an eSHOP.<br><br>I’m looking to collaborate on<br>Mobile app development using React Native and Laravel-based projects.<br><br>I’m looking for help with<br>Integrating advanced payment gateways and optimizing server configurations for multiple Laravel projects.<br><br>I’m currently learning<br>Vue.js, advanced jQuery, and improving UI/UX design with AdminLTE and Bootstrap.<br><br>Ask me about<br>Laravel, MySQL database management, and creating tailored IT solutions for hospitals and organizations.<br><br>Fun fact<br>I’m an archer who starts the day with a morning walk and enjoys balancing tech and fitness!
+# 🌟 About Me
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jimmy0923) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=flat-square&logo=codeIgniter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat-square&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jimmytdh&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jimmytdh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmytdh&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+I’m a full-stack developer focused on crafting efficient, secure, and scalable systems—both for mobile and web platforms. My work bridges healthcare, government, and enterprise needs with practical, user-friendly digital solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jimmytdh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🚧 Current Projects
+
+* 📱 **Mobile Daily Time Record (DTR) App** using Flutter
+* 🗃️ **Inventory Management System** tailored for hospitals and government offices
+
+---
+
+## 🤝 Open to Collaborate On
+
+* 📲 Mobile app development using **Flutter** or **React Native**
+* ⚙️ Full-stack systems built with **Laravel**
+
+---
+
+## 🧠 Seeking Support With
+
+* 💳 Advanced payment gateway integration
+* 🖥️ Server optimization and multi-project Laravel deployments
+
+---
+
+## 📚 Currently Learning
+
+* 🧠 **Vue.js**
+* 🎨 **TailwindCSS**
+* 🧩 Advanced **jQuery**
+* 🧑‍💻 UI/UX techniques using **AdminLTE** and **Bootstrap**
+
+---
+
+## 💬 Ask Me About
+
+* 🛠️ Backend development with **Laravel**
+* 🧮 Database management: **MySQL**, **MariaDB**, **MS SQL Server**
+* 🏥 Designing robust IT systems for hospitals and public service institutions
+
+---
+
+## 🎯 Fun Fact
+
+🏹 I’m an archer who starts the day with a morning walk. I believe that balancing tech and fitness keeps my aim sharp—in both coding and life!
+
+---
+
+# 📱 Featured Project: Mobile DTR App (Flutter + Laravel)
+
+A powerful, cross-platform Daily Time Record system built using **Flutter** for the frontend and **Laravel** for the backend.
+
+### 🔑 Key Features:
+
+* 📋 Employee login system
+* 🕑 Time-In and Time-Out functionality
+* 🖼️ Photo capture for verification
+* 🌍 GPS validation (optional location-based logging)
+* 📀 Offline mode via local storage
+* ☁️ Real-time API communication with backend
+* 🔒 PIN security to restrict app access
+
+---
+
+# 🗂️ Featured Project: Inventory Management System
+
+An end-to-end inventory system developed in **Laravel**, designed specifically for:
+
+* 🏥 Hospital departments (e.g., CSMC)
+* 🏛️ Government agencies (e.g., LGUs, DOH)
+
+### 📦 Modules Include:
+
+* Item request and approval workflows
+* Supplier and purchase order management
+* Real-time stock level monitoring
+* Departmental allocation and audit trails
+* Role-based access control for users and admins
+
+---
+
+## 🌐 Socials
+
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook\&logoColor=white)](https://facebook.com/jimmy0923)
+
+---
+
+# 💻 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square\&logo=flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square\&logo=vue.js\&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square\&logo=tailwind-css\&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square\&logo=laravel\&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square\&logo=php\&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat-square\&logo=firebase\&logoColor=black)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square\&logo=jquery\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square\&logo=bootstrap\&logoColor=white)
+![AdminLTE](https://img.shields.io/badge/adminlte-%230d6efd.svg?style=flat-square)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square\&logo=apache\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=jimmytdh\&theme=dark\&hide_border=false\&include_all_commits=true\&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=jimmytdh\&theme=dark\&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jimmytdh\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=jimmytdh\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
